@@ -8,7 +8,7 @@
         "start": "node --env-file=.env --watch server.js"
     },
     "keywords": [],
-    "author": "Rasmus Cederdorff (RACE)",
+    "author": "Esben Lund",
     "license": "ISC",
     "dependencies": {
         "cors": "^2.8.5",
